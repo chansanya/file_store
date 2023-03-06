@@ -1,7 +1,8 @@
 # 图片仓库
+仓库限制50M
 
 ## 访问地址
-https://cdn.jsdelivr.net/gh/chansanya/image_store/${file_path}
+https://cdn.jsdelivr.net/gh/chansanya/file_store/${file_path}
 
 ## 示例
-https://cdn.jsdelivr.net/gh/chansanya/image_store/images/3.jpg
+https://cdn.jsdelivr.net/gh/chansanya/file_store/images/3.jpg
